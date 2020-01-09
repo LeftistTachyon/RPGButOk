@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16214f39-d45d-472a-b0e8-348a33b221c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/BabyOnBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/BabyOnBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/ColumbusGuy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/ColumbusGuy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/NormalRock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/NormalRock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/RPGButOk$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/RPGButOk$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/RPGButOk$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/RPGButOk$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/RPGButOk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/RPGButOk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/Vore1255.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/Vore1255.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/WindowRPG.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/WindowRPG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RPGButOk/rpgbutok/bruh.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\MiniJed\Documents\NetBeansProjects\RPGButOk\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V1jMgIgy2VMa2Ko7RoHe2qfFg4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.xml" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RPGButOk [run]" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="rpgbutok.WindowRPG" />
+      <module name="RPGButOk" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16214f39-d45d-472a-b0e8-348a33b221c2" name="Default Changelist" comment="" />
+      <created>1576427448397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576427448397</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576427889873">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1576427889873" />
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576427877720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1576427877720" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1576428327840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576428327840" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1576850658419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576850658419" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1576850658419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576850658419" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1576850658419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576850658419" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1576850658419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576850658419" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1576429231743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576429231743" />
+    <state x="379" y="101" width="607" height="526" key="find.popup" timestamp="1576428911254">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="101" width="607" height="526" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1576428911254" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1576427956116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1576427956116" />
+  </component>
+</project>
